@@ -1,0 +1,28 @@
+body {
+    background-color: #ebeeeb;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.btnAll {
+    background-color: #31302f;
+    color: white;
+    padding: 8px;
+    border: 0 none;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#imgRandom {
+    width: 350px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border: 5px solid #bdbdbd;
+}
